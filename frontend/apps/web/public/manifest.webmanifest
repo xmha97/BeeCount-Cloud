@@ -58,33 +58,6 @@
     "productivity",
     "utilities"
   ],
-  "keywords": [
-    "钱",
-    "账户",
-    "余额",
-    "交易",
-    "付款",
-    "收入",
-    "支出",
-    "转账",
-    "存款",
-    "取款",
-    "錢",
-    "帳戶",
-    "餘額",
-    "轉帳",
-    "提款",
-    "money",
-    "account",
-    "balance",
-    "transaction",
-    "payment",
-    "income",
-    "expense",
-    "transfer",
-    "deposit",
-    "withdrawal"
-  ],
   "launch_handler": {
     "client_mode": [
       "focus-existing",
